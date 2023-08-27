@@ -1,4 +1,4 @@
-﻿@media only screen and (max-width:800px){
+@media only screen and (max-width:800px){
 #container .list:first-child{width:92%;border-bottom:1px solid #ececec;padding:0 0;margin:0 auto}
 #container .list:first-child .mecc{width:100%;padding:15px 0}
 #container .list:first-child .mucc{width:100%;padding:15px 0}
@@ -10,7 +10,7 @@
 #container .list:first-child .zaiyao p{width:100%;padding:10px 0;line-height:30px;display:block;overflow:hidden;font-size:14px}
 #container .list:first-child .zuiyao p{width:100%;padding:10px 0;line-height:30px;display:block;overflow:hidden;font-size:14px;padding-top:0;margin-top:-5px}
 }
-@media only screen and (min-width:800px){
+/* @media only screen and (min-width:800px){
 #container .list:first-child{width:845px;margin-left:-30px;border-bottom:none;overflow:hidden;position:relative;padding-bottom:10px}
 #container .list:first-child .mecc{float:left;height:78px;padding:2px 0;border:1px solid #fff;border-left:none;padding-right:30px;width:100%;background:#fafafa;overflow:hidden}
 #container .list:first-child .mucc{float:left;height:78px;padding:2px 0;border:1px solid #fff;border-left:none;padding-right:30px;width:100%;background:#fafafa}
@@ -24,4 +24,4 @@
 #container .list:first-child .zaiyao p{text-indent:30px}
 #container .list:first-child .zuiyao{width:795px;float:right;margin-right:5px;margin-top:15px}
 #container .list:first-child .zuiyao p{text-indent:30px}
-}
+} */
