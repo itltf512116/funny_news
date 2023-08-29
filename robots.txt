@@ -1,0 +1,19 @@
+# robots.txt for www.81968.com
+# Changes are tracked in www-render
+
+User-agent: *
+Disallow: /mpx/
+Disallow: /cgi-bin
+Disallow: /ramfiles/
+Disallow: /oauth2/
+Disallow: /account/
+Disallow: /proxy/
+Disallow: /*.smil
+Disallow: /*.asx
+Disallow: /*.ram
+Disallow: /*.wav
+Disallow: /*.rmm
+Disallow: /*.js
+Disallow: /*.au
+
+# Sitemap: https://www.81968.com/sitemap.xml
