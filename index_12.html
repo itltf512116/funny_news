@@ -16,7 +16,7 @@
   <script type="text/javascript" src="/js/css3-mediaqueries.js"></script>
   <script type="text/javascript" src="/js/selectivizr-min.js"></script>
   <script type="text/javascript" src="/js/jquery.1.11.1.js"></script>
-<script src="/sitefiles/assets/lib/jquery-1.9.1.min.js" type="text/javascript"></script></head>
+</head>
 
 <body>
 	<header id="header-web">
@@ -58,7 +58,7 @@
 	<!--header-web-->
 	<div id="main">
 		<div id="container">
-			<div id="e_cb457d2f26b38b4f"><div class="loading"><div style="margin: 0 auto;
+			<div id="e_cd9664424cc13da0"><div class="loading"><div style="margin: 0 auto;
     padding: 40px 0;
     font-size: 14px;
     font-family: 'Microsoft YaHei';
@@ -68,8 +68,8 @@
 </div></div><div class="yes"></div></div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function(){
-    $("#e_cb457d2f26b38b4f .loading").show();
-    $("#e_cb457d2f26b38b4f .yes").hide();
+    $("#e_cd9664424cc13da0 .loading").show();
+    $("#e_cd9664424cc13da0 .yes").hide();
 
     var url = '/api/stl/actions/pagecontents';
     var parameters = 
@@ -91,13 +91,13 @@ $(document).ready(function(){
         data: JSON.stringify(parameters),
         dataType: 'json',
         success: function(res) {
-            $("#e_cb457d2f26b38b4f .loading").hide();
-            $("#e_cb457d2f26b38b4f .yes").show();
-            $("#e_cb457d2f26b38b4f .yes").html(res.html);
+            $("#e_cd9664424cc13da0 .loading").hide();
+            $("#e_cd9664424cc13da0 .yes").show();
+            $("#e_cd9664424cc13da0 .yes").html(res.html);
         },
         error: function(e) {
-            $("#e_cb457d2f26b38b4f .loading").hide();
-            $("#e_cb457d2f26b38b4f .yes").hide();
+            $("#e_cd9664424cc13da0 .loading").hide();
+            $("#e_cd9664424cc13da0 .yes").hide();
         }
     });
 });
