@@ -15,5 +15,6 @@ Disallow: /*.wav
 Disallow: /*.rmm
 Disallow: /*.js
 Disallow: /*.au
+Disallow: /index_*.html
 
-# Sitemap: https://www.81968.com/sitemap.xml
+Sitemap: https://www.81968.com/sitemap.xml
