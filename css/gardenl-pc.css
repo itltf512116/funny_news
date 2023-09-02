@@ -55,7 +55,7 @@ cite{color:#f37800;font-style:normal}
 .meccaddress a:hover{color:#ff8b3d}
 .meccaddress time img{width:20px;display:none}
 .zan{background:#ff8b3d;display:inline-block;color:#fff;border-radius:2px;width:30px;height:15px;text-align:center;font-size:11px;line-height:14px}
-.titleimg{display:block;float:left;margin-right:25px;width:200px;height:auto;overflow:hidden;background:url(../images/no-img.png);background-size:200px auto;margin-top:5px}
+.titleimg{display:block;float:left;margin-right:25px;width:200px;height:auto;overflow:hidden;background:url(../images/nopic.gif);background-size:200px auto;margin-top:5px}
 .titleimg img{width:200px;height:auto;transition:All .4s ease-in-out;display:block}
 #container .list:hover img{transform:scale(1.3);-webkit-transform:scale(1.3)}
 .zaiyao{float:right;width:575px;margin-right:5px;line-height:30px;margin-top:10px;font-size:15px}
